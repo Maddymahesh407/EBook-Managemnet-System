@@ -1,2 +1,2 @@
-# Readin Platform
+# Reading Platform
 
